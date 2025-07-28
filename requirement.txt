@@ -1,0 +1,4 @@
+gradio
+transformers
+torch
+psycopg2-binary
